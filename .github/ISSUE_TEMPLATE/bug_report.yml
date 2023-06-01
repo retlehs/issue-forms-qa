@@ -6,7 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        This form is for submitting bug reports.
+        **This form is for submitting bug reports.**
+
         If you have a question or you're looking for support:
 
         * Visit [Roots Discourse](https://discourse.roots.io/) to ask questions
