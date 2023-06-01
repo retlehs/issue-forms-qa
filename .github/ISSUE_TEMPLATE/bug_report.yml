@@ -60,10 +60,10 @@ body:
     attributes:
       label: Please confirm this isn't a support request.
       description: Non-reproducible issues may be closed and you will be asked to create a topic on [Roots Discourse](https://discourse.roots.io/).
-    multiple: true
-    options:
-      - 'Yes'
-      - 'No'
+      multiple: true
+      options:
+        - 'Yes'
+        - 'No'
     validations:
       required: true
 
